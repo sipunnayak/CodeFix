@@ -1,9 +1,10 @@
 {
     "version": "4.0.0",
-    "buildCode": 3,
+    "buildCode": 4,
     "downloadUrl": "https://github.com/sipunnayak/CodeFix/releases/download/3.0/release.apk",
     "description": "Version 3.0: Fixed Dashboard UI fit, added College Logo, optimized 64-bit performance, and improved login security.",
     "forceUpdate": true
 
 }
+
 
