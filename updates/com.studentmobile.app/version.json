@@ -1,7 +1,8 @@
 {
-    "version": "2.0.0",
-    "buildCode": 2,
+    "version": "1.0.0",
+    "buildCode": 1,
     "downloadUrl": "https://raw.githubusercontent.com/sipunnayak/CodeFix/main/updates/com.studentmobile.app/release.apk",
     "description": "Major update! New dashboard design and performance improvements.",
     "forceUpdate": false
+
 }
