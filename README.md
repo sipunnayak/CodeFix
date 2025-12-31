@@ -27,7 +27,7 @@ AryanIMS is a premium, feature-rich mobile application designed for students to 
 
 | Institute | Login Screen | Dashboard | Profile |
 |:---:|:---:|:---:|:---:|
-| ![Institute](screenshots/institute.jpg) | ![Login](screenshots/login.jpg) | ![Dashboard](screenshots/dashboard.jpg) | ![Profile](screenshots/profile.jpg) |
+| ![Institute](screenshot/institute.jpg) | ![Login](screenshot/login.jpg) | ![Dashboard](screenshot/dashboard.jpg) | ![Profile](screenshot/profile.jpg) |
 
 
 **Prerequisites**:
