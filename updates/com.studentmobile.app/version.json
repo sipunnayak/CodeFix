@@ -1,7 +1,8 @@
 {
     "version": "3.0.0",
     "buildCode": 3,
-    "downloadUrl": "https://raw.githubusercontent.com/sipunnayak/CodeFix/main/updates/com.studentmobile.app/release.apk",
+    "downloadUrl": "https://github.com/sipunnayak/CodeFix/releases/download/3.0/release.apk",
     "description": "Version 3.0: Fixed Dashboard UI fit, added College Logo, optimized 64-bit performance, and improved login security.",
     "forceUpdate": true
+
 }
