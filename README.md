@@ -35,5 +35,5 @@ AryanIMS is a premium, feature-rich mobile application designed for students to 
 
 ## 📄 License
 
-© 2026 **CodeFix Pvt. Ltd.** - All Rights Reserved.
-Designed & Developed by **Sipun Nayak**.
+© 2026 **CodeCrazy Pvt. Ltd.** - All Rights Reserved.
+* Designed & Developed by **Sipun Nayak**.
